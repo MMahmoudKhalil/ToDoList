@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A31A91A-D811-4476-B7FB-46ACB31A543D}|ToDoList\\ToDoList.csproj|d:\\c#\\assignment\\assignment12\\todolist\\todolist\\controllers\\homepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A31A91A-D811-4476-B7FB-46ACB31A543D}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\homepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A31A91A-D811-4476-B7FB-46ACB31A543D}|ToDoList\\ToDoList.csproj|d:\\c#\\assignment\\assignment12\\todolist\\todolist\\views\\homepage\\todolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A31A91A-D811-4476-B7FB-46ACB31A543D}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\views\\homepage\\todolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A31A91A-D811-4476-B7FB-46ACB31A543D}|ToDoList\\ToDoList.csproj|d:\\c#\\assignment\\assignment12\\todolist\\todolist\\views\\shared\\notfund.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A31A91A-D811-4476-B7FB-46ACB31A543D}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\views\\shared\\notfund.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A31A91A-D811-4476-B7FB-46ACB31A543D}|ToDoList\\ToDoList.csproj|d:\\c#\\assignment\\assignment12\\todolist\\todolist\\views\\homepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A31A91A-D811-4476-B7FB-46ACB31A543D}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\views\\homepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePageController.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\Controllers\\HomePageController.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Controllers\\HomePageController.cs",
+              "ToolTip": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\Controllers\\HomePageController.cs",
+              "RelativeToolTip": "ToDoList\\Controllers\\HomePageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:25:04.767Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoList.cshtml",
+              "DocumentMoniker": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\Views\\HomePage\\ToDoList.cshtml",
+              "RelativeDocumentMoniker": "ToDoList\\Views\\HomePage\\ToDoList.cshtml",
+              "ToolTip": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\Views\\HomePage\\ToDoList.cshtml",
+              "RelativeToolTip": "ToDoList\\Views\\HomePage\\ToDoList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T19:55:44.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotFund.cshtml",
+              "DocumentMoniker": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\Views\\Shared\\NotFund.cshtml",
+              "RelativeDocumentMoniker": "ToDoList\\Views\\Shared\\NotFund.cshtml",
+              "ToolTip": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\Views\\Shared\\NotFund.cshtml",
+              "RelativeToolTip": "ToDoList\\Views\\Shared\\NotFund.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T19:46:29.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\Views\\HomePage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ToDoList\\Views\\HomePage\\Edit.cshtml",
+              "ToolTip": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\Views\\HomePage\\Edit.cshtml",
+              "RelativeToolTip": "ToDoList\\Views\\HomePage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T12:15:34.744Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1473,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

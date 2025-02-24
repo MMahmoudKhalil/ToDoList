@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ToDoList.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ToDoList.0k1iqtw4dx.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\10c63df4-0a73-4d4d-ae7b-39c0fb4fef10.jpg",
+      "PackagePath": "staticwebassets\\images\\10c63df4-0a73-4d4d-ae7b-39c0fb4fef10.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\13706258-de57-467f-b120-2fd4122520e3.png",
+      "PackagePath": "staticwebassets\\images\\13706258-de57-467f-b120-2fd4122520e3.png"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\14ba1fd3-d7fe-4aac-9671-85dbef42052f.docx",
+      "PackagePath": "staticwebassets\\images\\14ba1fd3-d7fe-4aac-9671-85dbef42052f.docx"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\183eae05-de9c-464e-b763-be4855447785.png",
+      "PackagePath": "staticwebassets\\images\\183eae05-de9c-464e-b763-be4855447785.png"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\1f7428ee-1685-469b-9c79-5884c6a1b522.jpg",
+      "PackagePath": "staticwebassets\\images\\1f7428ee-1685-469b-9c79-5884c6a1b522.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\1fb21987-594a-469a-98fd-69da4c456b9b.jpg",
+      "PackagePath": "staticwebassets\\images\\1fb21987-594a-469a-98fd-69da4c456b9b.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\42a770fb-3c28-44ae-872c-9df16f0bf005.jpg",
+      "PackagePath": "staticwebassets\\images\\42a770fb-3c28-44ae-872c-9df16f0bf005.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\44074fde-dac6-40ad-95ac-284e54c37427.jpg",
+      "PackagePath": "staticwebassets\\images\\44074fde-dac6-40ad-95ac-284e54c37427.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\55b2440c-911d-45cd-a8c9-21356a9d595f.jpg",
+      "PackagePath": "staticwebassets\\images\\55b2440c-911d-45cd-a8c9-21356a9d595f.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\5779806d-a29a-440a-8f55-36a16bfcb2b4.jpg",
+      "PackagePath": "staticwebassets\\images\\5779806d-a29a-440a-8f55-36a16bfcb2b4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\61bfa97b-acd6-442a-ac8a-e500bbc41b40.jpg",
+      "PackagePath": "staticwebassets\\images\\61bfa97b-acd6-442a-ac8a-e500bbc41b40.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\6e963f80-4728-495f-a336-b952985d9f07.png",
+      "PackagePath": "staticwebassets\\images\\6e963f80-4728-495f-a336-b952985d9f07.png"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\70e8778a-66c9-4c8e-b5d3-b146961f620b.png",
+      "PackagePath": "staticwebassets\\images\\70e8778a-66c9-4c8e-b5d3-b146961f620b.png"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\77fd15cf-624c-4919-81be-aec1f5d1d83b.docx",
+      "PackagePath": "staticwebassets\\images\\77fd15cf-624c-4919-81be-aec1f5d1d83b.docx"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\7d838cc6-3973-4038-9b8c-53090ce8e6c0.jpg",
+      "PackagePath": "staticwebassets\\images\\7d838cc6-3973-4038-9b8c-53090ce8e6c0.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\7d95ea08-33dd-4a7e-be89-f77037944ed6.png",
+      "PackagePath": "staticwebassets\\images\\7d95ea08-33dd-4a7e-be89-f77037944ed6.png"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\7df5a5d8-a8df-4e75-b4d9-3fd268b18f0e.jpg",
+      "PackagePath": "staticwebassets\\images\\7df5a5d8-a8df-4e75-b4d9-3fd268b18f0e.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\7e2f36bf-c49f-41bb-8af9-ddc8cced18d1.jpg",
+      "PackagePath": "staticwebassets\\images\\7e2f36bf-c49f-41bb-8af9-ddc8cced18d1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\81ccddb4-d01d-4519-b56a-65873e5fa1f8.png",
+      "PackagePath": "staticwebassets\\images\\81ccddb4-d01d-4519-b56a-65873e5fa1f8.png"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\862b85f1-b192-44db-9e63-407474ae9673.jpg",
+      "PackagePath": "staticwebassets\\images\\862b85f1-b192-44db-9e63-407474ae9673.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\9381e03f-a859-43c0-a5ef-00fca971f6a7.docx",
+      "PackagePath": "staticwebassets\\images\\9381e03f-a859-43c0-a5ef-00fca971f6a7.docx"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\9903a073-6065-4ae0-bbbe-138d851ccff6.png",
+      "PackagePath": "staticwebassets\\images\\9903a073-6065-4ae0-bbbe-138d851ccff6.png"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\a2441a31-db66-4741-96ef-4c7cbae3fe23.jpg",
+      "PackagePath": "staticwebassets\\images\\a2441a31-db66-4741-96ef-4c7cbae3fe23.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\b55a3364-18ae-46c3-a483-5a8ec289e2a1.jpg",
+      "PackagePath": "staticwebassets\\images\\b55a3364-18ae-46c3-a483-5a8ec289e2a1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\b5fc03d0-2cb9-417a-b3ed-719abbb8380a.jpg",
+      "PackagePath": "staticwebassets\\images\\b5fc03d0-2cb9-417a-b3ed-719abbb8380a.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\b71a328e-3b08-4595-b1ba-ea570f6ce644.jpg",
+      "PackagePath": "staticwebassets\\images\\b71a328e-3b08-4595-b1ba-ea570f6ce644.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\c73d4e6a-ef39-4be4-849b-4cd55e20a745.jpg",
+      "PackagePath": "staticwebassets\\images\\c73d4e6a-ef39-4be4-849b-4cd55e20a745.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\c8501aa1-21b8-44f1-ba10-f507c556871f.jpg",
+      "PackagePath": "staticwebassets\\images\\c8501aa1-21b8-44f1-ba10-f507c556871f.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\c9bcec6e-247d-44c6-91be-8f19468c8185.png",
+      "PackagePath": "staticwebassets\\images\\c9bcec6e-247d-44c6-91be-8f19468c8185.png"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\db95ecbd-b5c7-4b8a-8a8c-fcba72f1e1df.jpg",
+      "PackagePath": "staticwebassets\\images\\db95ecbd-b5c7-4b8a-8a8c-fcba72f1e1df.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\ddc0c30a-f9d1-4b58-84f6-920d9d2cbcb3.jpg",
+      "PackagePath": "staticwebassets\\images\\ddc0c30a-f9d1-4b58-84f6-920d9d2cbcb3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\ecfe0b9c-8e27-4792-92b5-6f3617fa331e.jpg",
+      "PackagePath": "staticwebassets\\images\\ecfe0b9c-8e27-4792-92b5-6f3617fa331e.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\f677bd95-d352-4104-8eb0-69b2779cf47e.jpg",
+      "PackagePath": "staticwebassets\\images\\f677bd95-d352-4104-8eb0-69b2779cf47e.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\f8e82084-e5ae-4498-ada9-a0a4aa9b343d.png",
+      "PackagePath": "staticwebassets\\images\\f8e82084-e5ae-4498-ada9-a0a4aa9b343d.png"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\images\\fab9252f-1d52-41de-8196-91a267f790f3.png",
+      "PackagePath": "staticwebassets\\images\\fab9252f-1d52-41de-8196-91a267f790f3.png"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\C#\\Assignment\\Assignment12\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ToDoList.props",
+      "PackagePath": "build\\ToDoList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ToDoList.props",
+      "PackagePath": "buildMultiTargeting\\ToDoList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ToDoList.props",
+      "PackagePath": "buildTransitive\\ToDoList.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
